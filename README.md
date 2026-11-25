@@ -45,9 +45,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Coming soon
-- Live Site URL: Coming soon
-- Repository URL: Coming soon
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-with-vanilla-javascript-Nu_JHOeYFv)
+- Live Site URL: [GitHub Pages](https://ivonildo-aires.github.io/interactive-rating-component/)
+- Repository URL: [GitHub](https://github.com/Ivonildo-Aires/interactive-rating-component)
 
 ## My process
 
